@@ -1,6 +1,6 @@
 
 # EX 1C Valid Pairs using Brute Force Approach
-## DATE:16-11-2025
+## DATE: 16-11-2025
 ## AIM:
 To write a Java program to for given constraints.
 Given an integer array nums and an integer k, return the number of pairs (i, j) where i < j such that |nums[i] - nums[j]| == k.
@@ -21,7 +21,8 @@ x if x >= 0.
 ### Register Number: 212223240127
 
 ## Program:
-```javaimport java.util.*;
+```java
+import java.util.*;
 public class CountPairsWithDifference {
     public static int countKDifference(int[] nums, int k) {
         Map<Integer,Integer> freq=new HashMap<>();
