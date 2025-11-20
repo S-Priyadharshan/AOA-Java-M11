@@ -12,8 +12,8 @@ To write a Java program that reads an integer **N** from the user and calculates
 5. After the loop ends, print the value of **i** (which is **N!**).  
 6. Stop  
 
-### Developed By: **Abdur Rahman Basil A H**  
-### Register Number: **212223040002**
+### Developed By: **Priydharshan S**  
+### Register Number: **212223240127**
 
 
 
